@@ -45,7 +45,7 @@
     {
         public string CourseName { get; set; }
         public string Trainer { get; set; }
-        public int WatchingRate { get; set; }
+        public int WatchingRate { get; set; } 
     }
 
     
