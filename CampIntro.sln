@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{19C554D8-FA98-4112-89FE-D20BD0252E31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samples", "Samples\Samples.csproj", "{5AAEBEB7-4A24-4814-A098-D3A855FE7340}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Samples", "Samples\Samples.csproj", "{5AAEBEB7-4A24-4814-A098-D3A855FE7340}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo2", "ClassMetotDemo\ClassMetotDemo2.csproj", "{F4EFB5EB-00EA-424D-A36D-1ACF30E8EDB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{5AAEBEB7-4A24-4814-A098-D3A855FE7340}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AAEBEB7-4A24-4814-A098-D3A855FE7340}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AAEBEB7-4A24-4814-A098-D3A855FE7340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4EFB5EB-00EA-424D-A36D-1ACF30E8EDB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4EFB5EB-00EA-424D-A36D-1ACF30E8EDB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4EFB5EB-00EA-424D-A36D-1ACF30E8EDB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4EFB5EB-00EA-424D-A36D-1ACF30E8EDB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
