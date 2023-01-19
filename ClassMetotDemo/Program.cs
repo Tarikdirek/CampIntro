@@ -43,6 +43,14 @@ public class Program
 
 		costumerManager.Listed(costumers);
 
+		Console.WriteLine();
 
-	}
+        costumerManager.Delete(costumer1);
+        costumerManager.Delete(costumer2);
+        costumerManager.Delete(costumer3);
+
+
+
+
+    }
 }

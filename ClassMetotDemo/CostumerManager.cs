@@ -27,7 +27,7 @@ namespace ClassMetotDemo
 		}
 		public void Delete(Costumer costumer)
 		{
-			Console.WriteLine("Costumer: " + costumer.FirstName + "deleted!");
+			Console.WriteLine("Costumer: " + costumer.FirstName + " deleted!");
 		}
 	}
 }
