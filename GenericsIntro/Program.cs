@@ -10,8 +10,9 @@ internal class Program
 
         Dictionary<int, string> dictionary = new Dictionary<int, string>();
         dictionary.Add(8, "ada");
+        
         foreach (var d in dictionary)
-            Console.WriteLine(d);
+        Console.WriteLine(d);
 
         MyDictionary<string, string> myDictionary = new MyDictionary<string, string>();
         myDictionary.Add("adad", "ağaç");
